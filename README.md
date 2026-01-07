@@ -30,7 +30,7 @@ The auto-guesser does exactly what you may have already expected from it to do: 
 Example:
 For the input word "CARNE", this will be the output:
 
--------------------------------------------------
+---
 Type here the secret word :CARNE
 ABACA
 Feedback : Y.YYY
@@ -47,7 +47,7 @@ Feedback : GG..G
 CAINE
 Feedback : GG.GG
 CARNE
--------------------------------------------------
+---
 
 As you can observe, if a G letter was guessed, all of the following guesses will contain that G letter as well.
 
